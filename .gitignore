@@ -1,0 +1,8 @@
+# results of the interpolation saved as png files
+results/*
+
+# pycharm files
+.idea/
+
+# virtual environment
+venv/
