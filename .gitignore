@@ -1,6 +1,9 @@
 # results of the interpolation saved as png files
 results/*
 
+#keep the catalouge
+!results/.gitkeep
+
 # pycharm files
 .idea/
 
